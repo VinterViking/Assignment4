@@ -1,0 +1,24 @@
+Start Game 3: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on ANCHOR
+Rolled ANCHOR, ANCHOR, ANCHOR
+Fred won 15, balance now 110
+
+Fred now has balance 110
+
+Start Game 2: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on ANCHOR
+Rolled ANCHOR, ANCHOR, SPADE
+Fred won 10, balance now 105
+
+Fred now has balance 105
+
+Start Game 1: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on ANCHOR
+Rolled ANCHOR, CLUB, SPADE
+Fred won 5, balance now 100
+
+Fred now has balance 100
+

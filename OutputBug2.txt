@@ -1,0 +1,81 @@
+Start Game 1: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 95
+
+Turn 2: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 90
+
+Turn 3: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 85
+
+Turn 4: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 80
+
+Turn 5: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 75
+
+Turn 6: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 70
+
+Turn 7: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 65
+
+Turn 8: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 60
+
+Turn 9: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 55
+
+Turn 10: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 50
+
+Turn 11: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 45
+
+Turn 12: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 40
+
+Turn 13: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 35
+
+Turn 14: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 30
+
+Turn 15: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 25
+
+Turn 16: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 20
+
+Turn 17: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 15
+
+Turn 18: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 10
+
+Turn 19: Fred bet 5 on SPADE
+Rolled CLUB, CLUB, ANCHOR
+Fred lost, balance now 5
+
+19 turns later.
+End Game 1: Fred now has balance 5
+

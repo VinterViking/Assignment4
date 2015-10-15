@@ -1,0 +1,3770 @@
+Fred won 5, balance now 45
+
+Turn 34: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 35: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 36: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 37: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 38: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 39: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 40: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 41: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 42: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 43: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 44: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 45: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 46: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 47: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 48: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 49: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 50: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+50 turns later.
+End Game 80: Fred now has balance 5
+
+Start Game 81: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 3: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 4: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 5: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 6: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 7: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 85
+
+Turn 8: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 85
+
+Turn 9: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 10: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 11: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 12: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 13: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 14: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 15: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 16: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 17: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 18: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 19: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 20: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 21: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 22: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 23: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 24: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 25: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 26: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 27: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 28: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 29: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 30: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 31: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 32: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 33: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 34: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 35: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 36: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 37: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 38: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 39: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 40: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 41: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 42: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 43: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 44: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 45: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 46: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 47: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 48: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 49: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 50: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+50 turns later.
+End Game 81: Fred now has balance 5
+
+Start Game 82: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 3: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 4: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 5: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 6: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 7: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 8: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 9: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 10: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 11: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 12: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 13: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 14: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 15: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 16: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 17: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 18: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 19: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 20: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 21: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 22: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 23: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 24: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 25: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 26: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 27: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 28: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 29: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 30: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 31: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 32: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 33: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 34: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 35: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 36: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 37: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 38: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 39: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 40: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 41: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 42: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 43: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+43 turns later.
+End Game 82: Fred now has balance 5
+
+Start Game 83: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 3: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 4: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 5: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 6: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 7: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 8: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 9: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 10: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 11: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 12: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 13: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 14: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 15: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 16: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 85
+
+Turn 17: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 85
+
+Turn 18: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 19: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 20: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 21: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 22: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 23: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 24: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 25: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 26: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 27: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 28: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 29: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 30: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 31: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 32: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 33: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 34: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 35: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 36: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 37: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 38: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 39: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 40: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 41: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 42: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 43: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 44: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 45: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 46: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 47: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 48: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 49: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 50: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 51: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 52: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+52 turns later.
+End Game 83: Fred now has balance 5
+
+Start Game 84: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 3: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 4: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 5: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 6: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 7: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 8: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 9: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 10: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 11: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 12: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 13: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 14: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 15: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 16: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 17: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 18: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 19: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 20: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 21: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 22: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 23: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 24: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 25: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 26: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 27: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 28: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 29: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 30: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 31: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 32: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 33: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 34: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 35: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 36: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+36 turns later.
+End Game 84: Fred now has balance 5
+
+Start Game 85: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 2: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 3: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 4: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 5: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 6: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 7: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 8: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 9: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 85
+
+Turn 10: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 85
+
+Turn 11: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 12: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 13: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 14: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 15: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 16: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 17: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 18: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 19: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 20: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 21: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 22: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 23: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 24: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 25: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 26: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 27: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 28: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 29: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 30: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 31: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 32: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 33: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 34: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 35: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 36: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 37: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 38: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 39: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 40: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 41: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 42: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 43: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 44: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 45: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 46: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 47: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 48: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 49: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 50: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 51: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 52: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 53: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 54: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 55: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 56: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 57: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 58: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 59: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 60: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 61: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 62: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 63: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+63 turns later.
+End Game 85: Fred now has balance 5
+
+Start Game 86: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 2: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 3: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 4: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 5: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 6: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 7: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 8: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 9: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 10: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 11: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 12: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 13: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 14: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 15: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 16: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 17: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 18: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 19: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 20: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 21: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 22: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 23: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 24: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 25: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 26: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 27: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 28: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 29: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 30: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 31: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 32: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 33: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 34: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 35: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 36: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 37: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 38: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 39: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 40: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 41: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 42: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 43: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 44: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 45: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 46: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 47: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 48: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 49: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 50: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 51: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 52: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 53: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 54: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 55: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 56: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 57: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 58: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 59: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 60: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 61: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 62: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 63: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 64: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 65: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+65 turns later.
+End Game 86: Fred now has balance 5
+
+Start Game 87: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 3: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 4: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 5: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 6: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 7: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 8: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 9: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 10: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 11: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 12: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 13: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 14: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 15: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 16: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 17: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 18: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 19: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 20: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 21: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 22: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 23: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 24: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 25: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 26: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 27: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 28: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 29: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 30: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 31: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 32: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 33: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 34: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 35: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 36: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 37: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 38: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 39: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 40: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 41: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 42: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 43: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 44: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 45: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 46: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 47: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 48: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 49: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 50: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+50 turns later.
+End Game 87: Fred now has balance 5
+
+Start Game 88: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 3: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 4: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 5: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 6: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 7: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 8: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 9: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 10: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 11: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 85
+
+Turn 12: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 13: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 14: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 15: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 16: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 17: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 18: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 19: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 20: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 21: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 22: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 23: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 24: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 25: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 26: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 27: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 28: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 29: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 30: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 31: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 32: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 33: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 34: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 35: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 36: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 37: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 38: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 39: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 40: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+40 turns later.
+End Game 88: Fred now has balance 5
+
+Start Game 89: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 2: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 3: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 4: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 5: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 85
+
+Turn 6: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 7: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 8: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 9: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 10: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 11: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 12: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 13: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 14: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 15: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 16: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 17: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 18: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 19: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 20: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 21: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 22: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 23: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 24: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 25: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 26: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 27: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 28: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 29: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 30: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 31: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 32: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 33: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 34: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 35: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 36: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 37: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 38: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+38 turns later.
+End Game 89: Fred now has balance 5
+
+Start Game 90: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 2: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 3: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 4: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 5: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 6: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 7: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 8: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 9: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 10: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 11: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 12: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 13: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 14: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 15: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 16: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 17: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 18: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 19: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 20: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 21: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 22: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 23: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 24: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 25: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 26: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 27: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 28: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 29: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 30: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 31: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 32: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 33: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 34: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 35: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 36: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 37: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 38: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 39: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 40: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 41: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 42: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 43: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 44: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 45: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 46: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+46 turns later.
+End Game 90: Fred now has balance 5
+
+Start Game 91: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 3: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 4: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 5: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 6: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 7: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 8: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 9: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 10: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 11: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 12: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 13: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 14: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 15: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 16: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 17: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 18: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 19: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 20: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 21: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 22: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 23: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 24: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 25: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 26: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 27: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 28: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 29: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 30: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 31: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 32: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 33: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 34: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 35: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 36: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 37: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 38: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 39: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 40: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 41: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 42: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 43: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 44: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 45: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 46: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 47: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 48: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 49: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+49 turns later.
+End Game 91: Fred now has balance 5
+
+Start Game 92: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 3: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 4: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 5: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 6: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 7: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 8: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 9: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 10: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 11: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 12: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 13: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 14: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 15: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 16: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 17: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 18: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 19: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 20: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 21: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 22: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 23: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 24: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 25: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 26: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 27: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 28: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 29: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 30: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 31: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 32: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 33: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 34: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 35: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 36: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 37: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 38: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 39: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 40: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 41: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 42: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 43: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 44: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 45: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 46: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 47: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+47 turns later.
+End Game 92: Fred now has balance 5
+
+Start Game 93: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 3: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 4: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 5: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 6: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 7: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 8: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 9: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 10: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 11: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 12: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 13: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 14: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 15: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 16: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 17: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 18: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 19: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 20: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 21: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 22: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 23: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 24: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 25: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 26: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 27: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 28: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 29: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 30: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 31: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 32: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 33: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 34: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 35: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 36: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 37: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 38: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 39: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 40: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 41: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 42: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 43: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 44: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 45: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 46: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 47: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 48: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+48 turns later.
+End Game 93: Fred now has balance 5
+
+Start Game 94: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 3: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 4: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 5: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 6: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 7: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 8: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 9: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 10: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 11: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 12: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 13: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 14: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 15: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 16: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 17: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 18: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 19: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 20: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 21: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 22: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 23: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 24: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 25: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 26: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 27: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 28: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 29: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 30: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 31: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 32: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 33: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 34: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 35: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 36: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 37: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 38: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 39: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 40: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 41: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 42: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 43: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 44: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 45: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 46: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 47: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 48: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+48 turns later.
+End Game 94: Fred now has balance 5
+
+Start Game 95: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 3: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 4: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 5: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 6: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 7: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 8: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 9: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 10: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 11: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 12: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 13: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 85
+
+Turn 14: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 15: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 16: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 17: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 18: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 19: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 20: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 21: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 22: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 23: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 24: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 25: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 26: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 27: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 28: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 29: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 30: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 31: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 32: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 33: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 34: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 35: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 36: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 37: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 38: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 39: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 40: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 41: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 42: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 43: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+43 turns later.
+End Game 95: Fred now has balance 5
+
+Start Game 96: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 3: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 4: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 5: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 6: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 7: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 85
+
+Turn 8: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 85
+
+Turn 9: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 10: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 11: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 12: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 13: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 14: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 15: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 16: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 17: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 18: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 19: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 20: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 21: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 22: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 23: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 24: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 25: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 26: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 27: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 45
+
+Turn 28: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 29: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 30: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 31: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 32: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 33: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 34: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 35: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 36: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 37: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 38: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 39: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 40: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 41: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 42: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 43: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+43 turns later.
+End Game 96: Fred now has balance 5
+
+Start Game 97: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 3: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 4: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 5: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 6: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 95
+
+Turn 7: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 8: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 9: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 10: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 11: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 12: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 13: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 80
+
+Turn 14: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 15: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 16: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 17: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 18: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 19: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 20: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 21: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 65
+
+Turn 22: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 23: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 24: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 25: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 26: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 50
+
+Turn 27: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 28: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 29: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 30: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 31: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 32: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 33: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 34: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 35: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 36: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 37: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 38: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 39: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 40: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 41: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 42: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 43: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 44: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 45: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 46: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 47: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 48: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+48 turns later.
+End Game 97: Fred now has balance 5
+
+Start Game 98: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 100
+
+Turn 2: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 3: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 4: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 5: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 6: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 90
+
+Turn 7: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 8: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 9: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 10: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 11: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 75
+
+Turn 12: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 13: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 14: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 15: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 16: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 17: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 18: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 19: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 20: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 21: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 22: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 23: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 24: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 25: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 26: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 27: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 28: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 29: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 30: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 31: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 32: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 33: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 34: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 35: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 36: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 37: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 38: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+38 turns later.
+End Game 98: Fred now has balance 5
+
+Start Game 99: 
+Fred starts with balance 100, limit 0
+Turn 1: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 95
+
+Turn 2: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 90
+
+Turn 3: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 85
+
+Turn 4: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 85
+
+Turn 5: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 80
+
+Turn 6: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Turn 7: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 70
+
+Turn 8: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 9: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 70
+
+Turn 10: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 65
+
+Turn 11: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 60
+
+Turn 12: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 13: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 14: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 15: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 60
+
+Turn 16: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 55
+
+Turn 17: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 55
+
+Turn 18: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 50
+
+Turn 19: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 45
+
+Turn 20: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 40
+
+Turn 21: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 22: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 23: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 24: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 25: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 26: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 40
+
+Turn 27: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 35
+
+Turn 28: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 29: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 30: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 31: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 35
+
+Turn 32: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 30
+
+Turn 33: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 34: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 30
+
+Turn 35: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 25
+
+Turn 36: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 37: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 38: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 25
+
+Turn 39: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 20
+
+Turn 40: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 20
+
+Turn 41: Fred bet 5 on CLUB
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 15
+
+Turn 42: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 43: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 44: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 45: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 46: Fred bet 5 on CROWN
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 15
+
+Turn 47: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 10
+
+Turn 48: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 49: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 50: Fred bet 5 on HEART
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 51: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 52: Fred bet 5 on ANCHOR
+Rolled ANCHOR, HEART, CROWN
+Fred won 5, balance now 10
+
+Turn 53: Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 5
+
+53 turns later.
+End Game 99: Fred now has balance 5
+
+Win count = 2875, Lose Count = 1900, 0.60
+Overall win rate = 60.2%
